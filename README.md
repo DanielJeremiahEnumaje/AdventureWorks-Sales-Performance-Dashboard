@@ -42,7 +42,7 @@ The dashboard was developed to answer questions such as:
 - **Microsoft Power BI** — Dashboard development, data modeling, visualization, and reporting
 - **Power Query** — Data cleaning and transformation
 - **DAX** — Measures, KPIs, profitability calculations, and customer analysis
-- **Microsoft Excel** — Data inspection and supporting analysis
+- **Microsoft Excel** — Initial dataset inspection and validation before importing the data into Power BI
 - **AI-assisted analysis** — Supported problem-solving, formula development, dashboard design decisions, and project documentation
 - **GitHub** — Project documentation and portfolio presentation
 
