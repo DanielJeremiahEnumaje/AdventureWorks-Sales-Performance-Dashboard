@@ -96,7 +96,7 @@ Key visualizations include:
 - Sales by product color
 - Customer-level sales and order analysis
 
-![Customer & Product Analysis](Screenshots/Customer-Product-Analysis.png)
+![Customer & Product Analysis](Screenshots/Customer-&-Product-Analysis.png)
 
 ---
 
